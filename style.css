@@ -1,0 +1,14 @@
+.background{
+    background-color: rgb(21, 65, 98);
+    font-family: 'Times New Roman', Times, serif;
+    padding:100px;
+    margin:100px;
+    color:bisque;
+    border-radius:20px;
+}
+.align{
+    text-align: center;
+}
+.ul{
+    padding-left: 500px;
+}
